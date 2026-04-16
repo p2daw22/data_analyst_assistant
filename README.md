@@ -35,3 +35,11 @@ This project is still in progress. I am still building it and adding more featur
 ## Why I made it
 
 I made this project because I wanted to build something that mixes data analytics, automation, and local AI tools in a way that feels useful and hands on.
+
+## Next steps
+
+- improve file path handling so the project is easier to run on other machines
+- connect Ollama more directly into the main workflow
+- add example datasets or sample outputs
+- improve error handling
+- keep building out automation features
