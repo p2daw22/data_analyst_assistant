@@ -35,11 +35,3 @@ This project is still in progress. I am still building it and adding more featur
 ## Why I made it
 
 I made this project because I wanted to build something that mixes data analytics, automation, and local AI tools in a way that feels useful and hands on.
-
-## Next steps
-
-- organize the project files better
-- add the main Python scripts
-- add requirements
-- add examples
-- add screenshots or sample outputs
