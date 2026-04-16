@@ -1,6 +1,6 @@
 # data_analyst_assistant
 
-This is a Python-based local analytics agent that I am building using Ollama. Right now the main focus is data cleaning and SQL exploration on a local machine. The project is still being worked on and I plan to add more features as I go.
+This is a Python-based local analytics agent that I am building for data cleaning and SQL exploration on a local machine. It is still a work in progress, with additional features in development, including Ollama integration.
 
 ## What this project is
 
